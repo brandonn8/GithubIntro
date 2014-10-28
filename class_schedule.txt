@@ -15,6 +15,7 @@ Team member 1
 
 
 Team member 2
+Name: Brandon Nguyen
 Per 1: BC Calculus, Rm B6
 Per 2: Ap Enviromental Science, 316
 Per 3: US Government, Rm B1
